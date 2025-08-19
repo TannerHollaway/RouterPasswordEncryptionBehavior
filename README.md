@@ -52,3 +52,4 @@ We'll now view the password in the running configuration and check if it is encr
 <br />
 <p align="center">
   
+# And that’s how you configure a Cisco router with a basic password and encryption configuration.
